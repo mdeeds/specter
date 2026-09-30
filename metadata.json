@@ -1,0 +1,6 @@
+{
+  "name": "Pitch-Synchronous Spectrogram Studio",
+  "description": "Precision audio spectrogram analyzer comparing rectangular, Hamming-windowed, and pitch-dependent adaptive time-stretched 4096 FFTs.",
+  "requestFramePermissions": ["android.permission.RECORD_AUDIO"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
